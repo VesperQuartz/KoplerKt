@@ -123,21 +123,6 @@
                         android:textSize="16sp" />
 
                     <TextView
-                        android:id="@+id/toggle_raw_text"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginTop="18dp"
-                        android:drawablePadding="3dp"
-                        android:fontFamily="sans-serif-medium"
-                        android:paddingTop="8dp"
-                        android:paddingBottom="8dp"
-                        android:text="@string/show_screen_text"
-                        android:textColor="@color/whisper_primary"
-                        android:textSize="13sp"
-                        android:visibility="gone"
-                        app:drawableEndCompat="@drawable/ic_chevron_down" />
-
-                    <TextView
                         android:id="@+id/raw_text"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -152,6 +137,21 @@
                         android:visibility="gone" />
                 </LinearLayout>
             </ng.mrlectus.koplerkt.MaxHeightScrollView>
+
+            <TextView
+                android:id="@+id/toggle_raw_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="6dp"
+                android:drawablePadding="3dp"
+                android:fontFamily="sans-serif-medium"
+                android:paddingTop="8dp"
+                android:paddingBottom="8dp"
+                android:text="@string/show_screen_text"
+                android:textColor="@color/whisper_primary"
+                android:textSize="13sp"
+                android:visibility="gone"
+                app:drawableEndCompat="@drawable/ic_chevron_down" />
 
             <LinearLayout
                 android:layout_width="match_parent"

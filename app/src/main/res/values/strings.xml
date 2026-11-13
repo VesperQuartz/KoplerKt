@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">KoplerKt</string>
+
+    <string name="setup_title">KoplerKt</string>
+    <string name="setup_subtitle">Tap the floating eye on any screen and I\'ll explain what you\'re looking at in plain language — with warning signs called out.</string>
+    <string name="setup_section_label">Setup</string>
+    <string name="setup_privacy_note">The eye only reads a screen when you tap it. Nothing is captured in the background.</string>
+
+    <string name="accessibility_card_title">Accessibility</string>
+    <string name="accessibility_pill_on">On</string>
+    <string name="accessibility_pill_off">Off</string>
+    <string name="accessibility_body_on">The eye is ready over other apps.</string>
+    <string name="accessibility_body_off">Turn it on so the eye can appear over other apps.</string>
+    <string name="accessibility_open_settings">Open accessibility settings</string>
+
+    <string name="on_device_card_title">On-device model</string>
+    <string name="on_device_checking">Checking…</string>
+    <string name="on_device_pill_ready">Ready</string>
+    <string name="on_device_pill_download">Download</string>
+    <string name="on_device_pill_downloading">Downloading</string>
+    <string name="on_device_pill_unavailable">Unavailable</string>
+    <string name="on_device_body_ready">Explanations stay on this phone.</string>
+    <string name="on_device_body_downloadable">Needed for on-device answers. Keep this screen open while it downloads.</string>
+    <string name="on_device_body_downloading">Preparing the model. This can take a few minutes.</string>
+    <string name="on_device_body_unavailable">This phone can\'t run the model. Cloud answers will be used when allowed.</string>
+    <string name="on_device_downloading_progress">Downloading… %1$d MB of %2$d MB.</string>
+    <string name="on_device_downloading_progress_unknown">Downloading… %1$d MB.</string>
+
+    <string name="cloud_fallback_title">Cloud fallback</string>
+    <string name="cloud_fallback_body_on">On — screen text and a screenshot may be sent to Google when needed.</string>
+    <string name="cloud_fallback_body_off">Off — nothing is sent to Google.</string>
+
+    <string name="open_demo">Open demo bank screen</string>
+    <string name="open_demo_hint">A fake alert with a password field to try the eye.</string>
+
+    <string name="accessibility_service_label">KoplerKt</string>
+    <string name="accessibility_service_description">Shows a floating eye button. When you tap it, KoplerKt reads the text on your screen and may take a screenshot to explain it. It does not read anything unless you tap the button.</string>
+    <string name="bubble_description">Explain this screen</string>
+
+    <string name="explanation_title">Here\'s what I see</string>
+    <string name="explanation_reading">Reading this screen…</string>
+    <string name="explanation_on_device">Answered on this phone</string>
+    <string name="explanation_in_cloud">Cloud answer — text sent to Google</string>
+    <string name="explanation_in_cloud_visual">Cloud answer — text and screenshot sent to Google</string>
+    <string name="explanation_failed">I couldn\'t read that screen. Try again.</string>
+    <string name="explanation_cloud_off">The on-device model couldn\'t answer, and cloud fallback is off. Allow it in setup and try again.</string>
+    <string name="explanation_offline">No internet connection. Try again when you\'re online.</string>
+    <string name="explanation_empty_screen">I couldn\'t find any readable text on this screen.</string>
+    <string name="explanation_timeout">That took too long. Try again or close this.</string>
+    <string name="explanation_slow">Still reading — this is taking longer than usual…</string>
+    <string name="try_again">Try again</string>
+    <string name="done">Done</string>
+    <string name="show_screen_text">Show what I read</string>
+    <string name="hide_screen_text">Hide what I read</string>
+    <string name="close">Close</string>
+
+    <string name="cloud_consent_title">Allow cloud explanations?</string>
+    <string name="cloud_consent_body">KoplerKt answers on this phone first. If the on-device model can\'t help, it can send this screen\'s text and a screenshot to Google. You can change this later in setup.</string>
+    <string name="cloud_consent_allow">Allow cloud</string>
+    <string name="cloud_consent_deny">On-device only</string>
+
+    <string name="demo_bank_name">SECUREBANK</string>
+    <string name="demo_bank_subtitle">Online banking</string>
+    <string name="demo_alert_label">Security alert</string>
+    <string name="demo_alert_title">Unusual sign-in detected</string>
+    <string name="demo_alert_body">Your account ending 4412 has been locked for your protection.</string>
+    <string name="demo_alert_urgency">Verify your identity within 24 hours or your account will be permanently closed.</string>
+    <string name="demo_username_hint">Online banking username</string>
+    <string name="demo_password_hint">Online banking password</string>
+    <string name="demo_verify">Verify now</string>
+    <string name="demo_phone">Call us: 1-800-555-0199</string>
+    <string name="demo_cancel">Not you? Cancel this request</string>
+    <string name="demo_footer">SecureBank will never ask for your password by phone.</string>
+    <string name="demo_submitted">Demo only — nothing was submitted.</string>
+</resources>

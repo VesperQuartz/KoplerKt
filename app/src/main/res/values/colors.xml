@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="whisper_primary">#FF1B6EF3</color>
+    <color name="whisper_primary_dark">#FF0B4CC4</color>
+    <color name="whisper_primary_soft">#FFE8F0FE</color>
+    <color name="whisper_on_primary_muted">#D9FFFFFF</color>
+    <color name="whisper_surface">#FFF5F7FB</color>
+    <color name="whisper_on_surface">#FF101828</color>
+    <color name="whisper_muted">#FF5B6474</color>
+    <color name="whisper_outline">#FFDCE1EA</color>
+    <color name="whisper_chip">#FFEDF0F5</color>
+    <color name="whisper_grabber">#FFD8DDE6</color>
+    <color name="whisper_code_surface">#FFF8FAFC</color>
+    <color name="scrim">#B3000000</color>
+
+    <color name="on_device_green">#FF067647</color>
+    <color name="on_device_green_soft">#FFE7F6EC</color>
+    <color name="cloud_amber">#FFB54708</color>
+    <color name="cloud_amber_soft">#FFFFF4E5</color>
+    <color name="risk_red">#FFB42318</color>
+    <color name="risk_red_soft">#FFFDECEA</color>
+    <color name="risk_red_outline">#FFF0C9C5</color>
+
+    <color name="demo_bank_blue">#FF0B3D91</color>
+    <color name="demo_bank_blue_dark">#FF062B66</color>
+</resources>

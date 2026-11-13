@@ -207,7 +207,7 @@ On an emulator, the on-device model is normally unavailable. That is expected; t
 
 [Download the signed demo APK](https://github.com/VesperQuartz/KoplerKt/releases/latest).
 
-SHA-256 of the v0.1.0 APK:
+SHA-256 of the v0.1.1 APK:
 
 ```text
 b15db9273858268ee6df79abd4b77ca58dd8e8067e591e07893d70e6a3266f30

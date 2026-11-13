@@ -5,12 +5,12 @@ Use this checklist on the borrowed Gemini Nano-capable phone before recording th
 - Device:
 - Android version:
 - AICore version:
-- Build: `KoplerKt-v0.1.0.apk`
+- Build: `KoplerKt-v0.1.1.apk`
 - Date:
 
 ## 1. Install
 
-- Install the signed APK from [Releases](https://github.com/VesperQuartz/KoplerKt/releases/latest) or with `adb install -r KoplerKt-v0.1.0.apk`.
+- Install the signed APK from [Releases](https://github.com/VesperQuartz/KoplerKt/releases/latest) or with `adb install -r KoplerKt-v0.1.1.apk`.
 - On Android 13+, if the accessibility toggle is grayed out, open **Settings → Apps → KoplerKt → ⋮ → Allow restricted settings**.
 
 ## 2. Enable the eye

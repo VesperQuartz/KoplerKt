@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "836960381193",
+    "project_id": "koplerkt-ai",
+    "storage_bucket": "koplerkt-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836960381193:android:374f4f01d921e17dffcbd8",
+        "android_client_info": {
+          "package_name": "ng.mrlectus.koplerkt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdpHFyhlVrz8xdQacQjgfA4Ja0s-iGk9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

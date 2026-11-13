@@ -162,6 +162,8 @@ adb install -r app/build/outputs/apk/debug/app-debug.apk
 
 Open KoplerKt, tap **Open accessibility settings**, then turn on **KoplerKt**.
 
+> **Android 13+ sideload note:** if the KoplerKt toggle is grayed out, open **Settings → Apps → KoplerKt → ⋮ → Allow restricted settings**, then try again. Android applies this to apps installed outside an app store.
+
 Or from a terminal:
 
 ```bash

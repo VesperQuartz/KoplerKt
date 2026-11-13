@@ -55,8 +55,9 @@ The rules require Firebase AI Logic to be imported and actually called at runtim
 - [x] Password masking and tap-only capture.
 - [x] Public repository.
 - [x] MIT license file. The rules prefer Apache but allow any open-source license.
-- [ ] License visible in the GitHub About section.
-- [ ] Signed release APK attached to GitHub Releases.
+- [x] License visible in the GitHub About section.
+- [x] Signed release APK attached to GitHub Releases.
+- [x] Demo APK downloaded and SHA-256 verified.
 - [ ] Three-minute demo video on public YouTube, in English.
 - [ ] Demo video shows the app functioning on Android.
 - [ ] Demo video shows an on-device answer on a supported phone.
@@ -69,5 +70,6 @@ The rules require Firebase AI Logic to be imported and actually called at runtim
 
 - The demo Firebase project and `app/google-services.json` are included so the repository builds and runs. The config is a client configuration, not a server secret. Replace it for production.
 - The app uses `DebugAppCheckProviderFactory` for the hackathon. Firebase AI Logic debug tokens are accepted in submissions. Enforcement can remain off for the demo.
+- On Android 13 and newer, a sideloaded app may need **Allow restricted settings** in App info before the accessibility service can be enabled.
 - The on-device segment of the demo requires a Gemini Nano-capable phone. The emulator shows **Unavailable** and uses the cloud path.
 - The demo bank screen is fake. It contains no real bank data.

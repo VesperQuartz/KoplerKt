@@ -14,6 +14,7 @@ Requirements:
 
 - Use the supported phone for the on-device segment.
 - Confirm the setup screen shows **Ready** for the on-device model.
+- If the accessibility toggle is grayed out on Android 13+, allow restricted settings in App info first.
 - Pre-allow cloud fallback if you want to avoid the consent dialog on camera, or show the dialog deliberately.
 - Clear notifications and set the phone to a clean home screen.
 - Record at 1080p or higher. Capture the phone screen with the built-in recorder or `adb shell screenrecord`.

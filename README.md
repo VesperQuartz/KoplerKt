@@ -126,6 +126,8 @@ The debug provider is intentional for the hackathon demo. Firebase AI Logic debu
 
 KoplerKt describes what it sees. It is not a guarantee. When money or credentials are involved, verify with the official app, website, or phone number.
 
+See [PRIVACY.md](PRIVACY.md) for the full policy.
+
 ## Demo
 
 | Setup | Demo bank screen | Explanation |
@@ -221,6 +223,8 @@ The debug APK is also usable for local development.
 - The accessibility service must be enabled manually. Android does not allow an app to enable it for you.
 - The app is distributed as an APK, not through the Play Store.
 - The UI and prompt are English-only for this submission.
+
+For the step-by-step phone validation plan, see [docs/on-device-test.md](docs/on-device-test.md).
 
 ## Project structure
 

@@ -10,7 +10,7 @@
 | Built with | Firebase AI Logic, Gemini Nano, Gemini 3.5 Flash Lite, Android Accessibility API, Kotlin, Material Components |
 | Repository | https://github.com/VesperQuartz/KoplerKt |
 | Demo video | _Add public YouTube URL before submitting_ |
-| Project URL | _Add GitHub Releases URL for the signed APK_ |
+| Project URL | https://github.com/VesperQuartz/KoplerKt/releases/latest |
 | Country | _Add your country_ |
 
 ## Text description

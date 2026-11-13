@@ -5,6 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 ![Platform: Android](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white)
 ![Firebase AI Logic](https://img.shields.io/badge/Firebase-AI%20Logic-FFCA28?logo=firebase&logoColor=black)
+[![Download APK](https://img.shields.io/badge/Download-APK-1B6EF3?logo=android&logoColor=white)](https://github.com/VesperQuartz/KoplerKt/releases/latest)
 
 KoplerKt is an Android app for the moments when a screen makes no sense.
 
@@ -13,6 +14,15 @@ Tap the floating eye and it explains what you are looking at in plain language, 
 <p align="center">
   <img src="docs/screenshots/explanation.png" width="300" alt="KoplerKt explaining a fake bank alert" />
 </p>
+
+## Install the demo
+
+1. Download the latest APK from [Releases](https://github.com/VesperQuartz/KoplerKt/releases/latest).
+2. Allow installation from this source if Android asks.
+3. Open KoplerKt and enable the accessibility service.
+4. Open the demo bank screen and tap the floating eye.
+
+The demo APK is signed and ready to install. It is not a Play Store build.
 
 ## What it does
 
@@ -191,7 +201,15 @@ On an emulator, the on-device model is normally unavailable. That is expected; t
 
 ### Release APK
 
-A signed demo APK is attached to the GitHub Releases page. The debug APK is also usable; see the Releases section for the latest build.
+[Download the signed demo APK](https://github.com/VesperQuartz/KoplerKt/releases/latest).
+
+SHA-256 of the v0.1.0 APK:
+
+```text
+b15db9273858268ee6df79abd4b77ca58dd8e8067e591e07893d70e6a3266f30
+```
+
+The debug APK is also usable for local development.
 
 ## Supported devices and limitations
 
